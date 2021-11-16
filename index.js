@@ -1,1 +1,2 @@
-console.log("Hello, Hexlet!")
+var _ = require('lodash');
+console.log(_.last(["one", "two"]));
